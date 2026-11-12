@@ -1,0 +1,64 @@
+Academic and Peer-Review Evaluation License
+Copyright (c) 2026 Earzz Ltd. All rights reserved.
+
+This software, associated analytic routines, and validation data files ("the Materials") 
+are the proprietary property of Earzz Ltd and are protected by applicable copyright, 
+trade secret, and intellectual property laws, as well as Earzz Ltd's global patent 
+portfolio, including granted patents (US Patent 12,293,772 B2; European Patent EP 4141869 B1), 
+pending patent applications, and international counterparts.
+
+1. PERMITTED EVALUATION USE:
+Permission is hereby granted, free of charge, to any researcher, reviewer, or academic 
+institution obtaining a copy of the Materials, to download, view, inspect, execute, and 
+locally modify the Materials solely for the non-commercial purposes of academic peer review, 
+scientific reproduction, educational study, and independent verification of the findings 
+described in the associated research manuscript titled:
+"Digitising the behavioural prodrome of acute decompensation in older adults using continuous 
+ambient acoustic biomarkers".
+
+2. PROHIBITED USES:
+You may NOT:
+a) Use the Materials, directly or indirectly, for any commercial, clinical, diagnostic, 
+   operational, or production purpose.
+b) Sublicense, distribute, re-host, mirror, or transfer the Materials for profit or commercial 
+   advantage without prior written authorization from Earzz Ltd (sharing within academic 
+   research groups strictly for non-commercial verification of the published findings 
+   under this Agreement is permitted).
+c) Incorporate the Materials into commercial products, services, proprietary toolkits, 
+   or production software pipelines.
+d) Attempt to re-identify, de-anonymise, correlate with external records, or link any 
+   anonymised room token to any identifiable individual or physical facility.
+
+3. RESERVATION OF ALL INTELLECTUAL PROPERTY & PATENT RIGHTS:
+The Materials are licensed solely for the limited evaluation purposes set forth in Section 1. 
+Nothing in this Agreement or in the disclosure of the Materials shall be construed as granting, 
+conveying, or creating, by implication, estoppel, exhaustion, or otherwise, any license, right, 
+title, or interest in or to:
+(i) Any granted patent or pending patent application owned or controlled by Earzz Ltd, 
+    including without limitation US Patent 12,293,772 B2, European Patent EP 4141869 B1, 
+    and any continuations, divisionals, reissues, or foreign counterparts thereof; or
+(ii) Any trade secret, proprietary device firmware, acoustic classification model, 
+     hardware design, or upstream feature-extraction methodology of Earzz Ltd.
+
+4. DEFENSIVE TERMINATION:
+If you, your academic institution, employer, or any affiliate acting on your behalf initiates, 
+joins, or materially assists in any legal proceeding, patent challenge, re-examination, 
+inter partes review, or opposition proceeding alleging the invalidity, unenforceability, 
+or non-infringement of any patent or intellectual property right owned or controlled by 
+Earzz Ltd, all rights and licenses granted to you under this Agreement shall terminate 
+immediately and automatically without notice.
+
+5. ATTRIBUTION:
+Any academic publication, preprint, thesis, or scholarly presentation that uses, references, 
+or evaluates the Materials must provide full citation and attribution to the authors and 
+the associated research manuscript:
+Thiruvenkatanathan, P., Moitra, A., & Spyropoulos, G. "Digitising the behavioural prodrome of acute 
+decompensation in older adults using continuous ambient acoustic biomarkers" (Under peer review / In press).
+
+6. DISCLAIMER:
+THE MATERIALS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, 
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR 
+PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS, EARZZ LTD, OR COPYRIGHT HOLDERS 
+BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, 
+OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE MATERIALS OR THE USE OR OTHER 
+DEALINGS IN THE MATERIALS.
